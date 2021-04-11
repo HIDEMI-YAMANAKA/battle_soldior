@@ -1,5 +1,5 @@
 # battle_soldior
-processingを用いてpyhtonコードで書かれたバトルシミュレーション・ゲーム
+processingを用いてpyhtonコードで書かれたバトルシミュレーション・ゲームです。
 特に何か操作をする訳ではなく、ただ兵士たちの戦いっぷりを眺めるだけの、単純なシミュレーションです。
 （詳しい説明は、battleのreadmeを見て下さい）
 無条件でバトルが発生する基本形のbattleと、バトルの発生条件を変えた変化形のsurvival、brave、competitionがあります。
