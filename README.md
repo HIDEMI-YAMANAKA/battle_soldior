@@ -1,0 +1,2 @@
+# battle_soldior
+processingを用いてpyhtonコードで書かれたバトルシミュレーション・ゲーム
